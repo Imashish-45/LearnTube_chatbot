@@ -3,7 +3,7 @@
 <img width="685" alt="image" src="https://github.com/Imashish-45/LearnTube_chatbot/assets/123284935/7249af65-1927-4f24-97c2-17aaf7161df7">
 
 
-# LearnTube: Interactive Educational Chatbot
+# LearnTube: Interactive Inquiry-purpose Chatbot
 
 Welcome to LearnTube, an innovative educational chatbot that engages users in personalized conversations, facilitates data collection, and enhances the learning experience. This project was undertaken as part of a task to create an interactive chatbot that gathers user information and provides valuable insights about educational offerings.
 
