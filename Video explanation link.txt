@@ -1,3 +1,5 @@
 You can watch a video explanation of the project by following the Google Drive link:
 
 https://drive.google.com/file/d/1n58IO6ziUNmKaHHr50O2nIrILatVmcO5/view
+
+Telegram bot link: http://t.me/learntube_CT_bot
